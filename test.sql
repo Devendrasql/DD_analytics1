@@ -245,4 +245,4 @@ where pr.c_item_code is not null
 
 
 select*from medicines
-
+day today
